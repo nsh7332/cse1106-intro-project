@@ -16,11 +16,11 @@ After the game, the player can choose to play again or quit.
 ## How to Run
 Compile the program:
 
-gcc dice_battle.c -o dice_battle
+gcc dice_battle.c
 
 Run the program:
 
-./dice_battle
+./a.out dice_battle.c
 
 Press ENTER to roll the dice and follow the instructions on the screen.
 
