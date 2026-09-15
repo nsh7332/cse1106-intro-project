@@ -28,4 +28,4 @@ Press ENTER to roll the dice and follow the instructions on the screen.
 I learned how to use functions, loops, random numbers, and pointers in C. I also learned how to use a pointer to change a score inside a function.
 
 ## Future Improvements
-I could add more game modes, different winning scores, or special dice rolls.
+I could add more game modes, different winning scores, special dice rolls, or difficulty levels.
